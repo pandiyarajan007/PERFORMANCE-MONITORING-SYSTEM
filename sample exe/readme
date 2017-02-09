@@ -1,0 +1,9 @@
+This is a sample application to take the ipaddress, cpu usage and memory!!
+
+Runs on Port 8072
+
+To check just open browser and type:
+
+  localhost:8072/component=ip
+  localhost:8072/component=cpuUsage
+  localhost:8072/component=memory
